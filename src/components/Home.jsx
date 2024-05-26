@@ -6,10 +6,7 @@ import {Link} from 'react-scroll';
 
 const Home = () => {
   return (
-    
-
       <div
-      
       id='Home' className=' flex flex-col items-center pt-14  bg-neutral-950 bg-[radial-gradient(ellipse_80%_80%_at_50%_-20%,rgba(120,119,198,0.3),rgba(255,255,255,0))] h-screen '>
         <img src={avatar} alt="" className='w-[150px] h-auto rounded-full' />
         <p className='text-white text-2xl font-bold font-herofont pt-4'>I do code and</p>

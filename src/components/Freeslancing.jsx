@@ -19,7 +19,7 @@ const Freeslancing = () => {
       initial={{opacity:0,x:-100}}
       transition={{duration:1}}
       className='flex justify-center items-center '>
-                    <a href="https://www.fiverr.com/qaisarfaryad91?up_rollout=true" target="_blank" rel="noopener noreferrer">
+                    <a href="https://www.fiverr.com/pe/yv227lz" target="_blank" rel="noopener noreferrer">
         <button className='py-4 px-4 text-white font-semibold mt-1  bg-[#1dbf73] rounded-sm font-herofont flex justify-center items-center'><span className='text-2xl'><TbBrandFiverr /></span>Visit Profile</button>
         </a>
       </motion.div>
