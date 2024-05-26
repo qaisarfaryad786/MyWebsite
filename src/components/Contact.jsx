@@ -30,7 +30,7 @@ const Contact = () => {
             <a href="https://www.linkedin.com/in/qaisar-faryad/" target="_blank" rel="noopener noreferrer">
             <FaLinkedin className='text-4xl text-sky-500'/>
             </a>
-            <a href="https://www.fiverr.com/pe/yv227lz" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.fiverr.com/qaisarfaryad91" target="_blank" rel="noopener noreferrer">
             <TbBrandFiverr className='text-4xl text-green-500'/>  
               </a>
         </div>
